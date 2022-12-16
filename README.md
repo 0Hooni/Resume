@@ -1,4 +1,4 @@
-# 송영훈 이력서
+# Resume
 
 iOS Developer
 
@@ -28,9 +28,7 @@ iOS, Swift
 - 역할
   - iOS 프런트 개발
 
-- 관련 기술 : <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
-- 프레임워크 : Alamofire
+- 관련 기술 : <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=CocoaPods&logoColor=white">
 - [Github Repository](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)
 
 ## 활동 내역
