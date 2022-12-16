@@ -7,7 +7,7 @@ iOS Developer
 
 ## 보유 기술
 
-iOS, Swift
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=CocoaPods&logoColor=white">
 
 ## 학력
 
@@ -28,7 +28,7 @@ iOS, Swift
 - 역할
   - iOS 프런트 개발
 
-- 관련 기술 : <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=CocoaPods&logoColor=white">
+- 관련 기술 : Swift, Alamofire
 - [Github Repository](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)
 
 ## 활동 내역
@@ -44,7 +44,6 @@ iOS, Swift
 - Language
   - Korean : 원어민
 - Certificates
-
 
 
 
