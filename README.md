@@ -29,7 +29,7 @@ iOS Developer
   - iOS 프런트 개발
 
 - 관련 기술 : Swift, Alamofire
-- [Github Repository](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)
+- [Github Repo](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)
 
 ## 활동 내역
 
@@ -37,7 +37,7 @@ iOS Developer
 
 - 2022.10 ~ 2022.12
 - 소프트스퀘어드에서 진행되는 개발 교육 프로그램
-- [Github Repository](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)
+- [Github Repo](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)
 
 ## 기타
 
@@ -45,7 +45,3 @@ iOS Developer
   - Korean : 원어민
 - Certificates
 
-
-
-#### 기술스택 아이콘 템플릿
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
