@@ -28,7 +28,8 @@ iOS, Swift
 - 역할
   - iOS 프런트 개발
 
-- 관련 기술 : <img src="https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=Swift&logoColor=white">
+- 관련 기술 : <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 - 프레임워크 : Alamofire
 - [Github Repository](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)
 
