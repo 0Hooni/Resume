@@ -36,7 +36,7 @@ iOS Developer
 #### [Rising Camp](https://risingcamp.com)
 
 - 2022.10 ~ 2022.12
-- 소프트스퀘어드에서 진행되는 개발 교육 프로그램
+- 소프트스퀘어드에서 진행되는 개발 교육 프로그램(수료)
 - [Github Link](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)
 
 ## 기타
