@@ -29,7 +29,7 @@ iOS Developer
   - iOS 프런트 개발
 
 - 관련 기술 : Swift, Alamofire
-- [Github Link](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)
+- [Github Link](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp/CoupangEats%20Clone)
 
 ## 활동 내역
 
