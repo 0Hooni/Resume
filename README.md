@@ -20,7 +20,7 @@ iOS Developer
 
 ## 프로젝트
 
-### Coupangeats Clone
+### 쿠팡이츠 클론코딩
 
 실제 서비스중인 쿠팡이츠 어플을 클론하는 프로젝트
 
