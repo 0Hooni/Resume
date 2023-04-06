@@ -41,7 +41,7 @@ iOS Developer
 
 ## 기타
 
-- Language
-  - Korean : 원어민
-- Certificates
+- 언어
+  - 한국어
+- 자격증
 
